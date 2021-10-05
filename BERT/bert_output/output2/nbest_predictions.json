@@ -1,0 +1,96 @@
+{
+    "76ddde6b9a695914005b9628": [
+        {
+            "text": "infectious disease caused by the most recently discovered coronavirus",
+            "probability": 0.6310054129525112,
+            "start_logit": 4.700534820556641,
+            "end_logit": 6.323990821838379
+        },
+        {
+            "text": "the infectious disease caused by the most recently discovered coronavirus",
+            "probability": 0.3563260161917071,
+            "start_logit": 4.129066467285156,
+            "end_logit": 6.323990821838379
+        },
+        {
+            "text": "infectious disease caused by the most recently discovered coronavirus.",
+            "probability": 0.012668570855781535,
+            "start_logit": 4.700534820556641,
+            "end_logit": 2.4158005714416504
+        }
+    ],
+    "76ddde6b9a695914005b9629": [
+        {
+            "text": "fever, tiredness, and dry cough",
+            "probability": 0.9986725024838481,
+            "start_logit": 7.381785869598389,
+            "end_logit": 8.16285228729248
+        },
+        {
+            "text": "The most common symptoms of COVID-19 are fever, tiredness, and dry cough",
+            "probability": 0.001129372661424864,
+            "start_logit": 0.5970212817192078,
+            "end_logit": 8.16285228729248
+        },
+        {
+            "text": "most common symptoms of COVID-19 are fever, tiredness, and dry cough",
+            "probability": 0.00019812485472693757,
+            "start_logit": -1.1434988975524902,
+            "end_logit": 8.16285228729248
+        }
+    ],
+    "76ddde6b9a695914005b962a": [
+        {
+            "text": "about 80%",
+            "probability": 0.5905063672416492,
+            "start_logit": 3.1375694274902344,
+            "end_logit": 5.906400680541992
+        },
+        {
+            "text": "80%",
+            "probability": 0.4067319296709265,
+            "start_logit": 2.7647433280944824,
+            "end_logit": 5.906400680541992
+        },
+        {
+            "text": "about 80%)",
+            "probability": 0.002761703087424249,
+            "start_logit": 3.1375694274902344,
+            "end_logit": 0.5412678122520447
+        }
+    ],
+    "76ddde6b9a695914005b962b": [
+        {
+            "text": "Wuhan, China",
+            "probability": 0.8527162597244401,
+            "start_logit": 0.3334059417247772,
+            "end_logit": 0.7524883151054382
+        },
+        {
+            "text": "Wuhan, China, in December 2019.",
+            "probability": 0.09708426231679655,
+            "start_logit": 0.3334059417247772,
+            "end_logit": -1.4203592538833618
+        },
+        {
+            "text": "China",
+            "probability": 0.050199477958763436,
+            "start_logit": -2.499016284942627,
+            "end_logit": 0.7524883151054382
+        }
+    ],
+    "76ddde6b9a695914005b962c": [
+        {
+            "text": "People with fever, cough and difficulty breathing",
+            "probability": 0.9999721605631084,
+            "start_logit": 3.301111936569214,
+            "end_logit": 3.678913116455078
+        },
+        {
+            "text": "COVID-19",
+            "probability": 2.783943689146165e-05,
+            "start_logit": -3.089539051055908,
+            "end_logit": -0.41946500539779663
+        }
+    ]
+}

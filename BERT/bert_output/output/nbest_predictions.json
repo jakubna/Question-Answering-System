@@ -1,0 +1,56 @@
+{
+    "56ddde6b9a695914005b9628": [
+        {
+            "text": "Sundar Pichai",
+            "probability": 0.9145265180100254,
+            "start_logit": 1.6130177974700928,
+            "end_logit": 2.127917528152466
+        },
+        {
+            "text": "Sundar Pichai was appointed CEO of Google, replacing Larry Page",
+            "probability": 0.08142806927551265,
+            "start_logit": 1.6130177974700928,
+            "end_logit": -0.29076889157295227
+        },
+        {
+            "text": "Larry Page",
+            "probability": 0.004045412714461894,
+            "start_logit": -1.3891186714172363,
+            "end_logit": -0.29076889157295227
+        }
+    ],
+    "56ddde6b9a695914005b9629": [
+        {
+            "text": "Larry Page and Sergey Brin",
+            "probability": 0.9999307611310839,
+            "start_logit": 9.18079662322998,
+            "end_logit": 9.206954956054688
+        },
+        {
+            "text": "Page and Sergey Brin",
+            "probability": 6.923886891610518e-05,
+            "start_logit": -0.39708229899406433,
+            "end_logit": 9.206954956054688
+        }
+    ],
+    "56ddde6b9a695914005b962a": [
+        {
+            "text": "August 19, 2004",
+            "probability": 0.9989231363714749,
+            "start_logit": 7.410219669342041,
+            "end_logit": 7.8373212814331055
+        },
+        {
+            "text": "August 19, 2004,",
+            "probability": 0.0007380281651284164,
+            "start_logit": 7.410219669342041,
+            "end_logit": 0.6268701553344727
+        },
+        {
+            "text": "on August 19, 2004",
+            "probability": 0.00033883546339678145,
+            "start_logit": -0.5786988139152527,
+            "end_logit": 7.8373212814331055
+        }
+    ]
+}
